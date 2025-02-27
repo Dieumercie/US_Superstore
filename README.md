@@ -17,6 +17,8 @@
     Montant total du profit : $286.41K
     Marge bénéficiaire (%) : 12.47%
 
+![Image](https://github.com/user-attachments/assets/ebb17d2f-5644-4481-9ae8-181ae57d04fe)
+
 ## Analyses Disponibles
 
 
@@ -26,15 +28,19 @@
 * Produit le plus rentable : Canon imageCLASS 2200 Advanced Copier - $25,199.928
 * Produit le plus cher : Canon imageCLASS 2200 Advanced Copier - $61,599.824
 
+![Image](https://github.com/user-attachments/assets/63a416e8-28fc-4708-aaa3-7404bbc1f8c8)
+
 📈Tableau des sous-catégories de produits 
 
 * Quantité vendue
 * Montant des ventes
 * Profit (avec visualisation des gains/pertes)
 
+![Image](https://github.com/user-attachments/assets/a17c4af1-3032-4764-b941-45114c01893c)
+
 📈Performance des Clients
 
-* Top 10 des clients ayant passé le plus de commandes
+* Top 11 des clients ayant passé le plus de commandes
 * Meilleur client : Emily Phan - 17 commandes
 
 📈Analyse Géographique
@@ -49,6 +55,12 @@
 Filtrer les données en utilisant les segments dynamiques (Catégorie de produit, Client, Région, Date de commande).
 Analyser les performances des ventes par produit, client et région.
 Identifier les meilleures opportunités d'amélioration en comparant le chiffre d'affaires, les profits et la quantité vendue.
+
+## Vue d'ensemble
+
+![Image](https://github.com/user-attachments/assets/8ccf6b31-2f3a-4700-b104-7af1cd6c9e6c)
+![Image](https://github.com/user-attachments/assets/455bbd0c-2f3e-4ecd-8444-96acfbadcbef)
+
 
 🚀 Installation et Utilisation
 
